@@ -19,3 +19,10 @@
 
 1.2
 1. 搭建Post-Quantum-Secure-Blockchained-Federated-Learning项目环境
+
+1.3
+1. 继续搭建Post-Quantum-Secure-Blockchained-Federated-Learning项目环境，无果
+
+1.4
+1. 看Post-Quantum-Secure-Blockchained-Federated-Learning代码，理解其过程
+2. 看基金申请书
